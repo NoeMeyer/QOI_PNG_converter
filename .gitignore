@@ -1,0 +1,16 @@
+# Compiled Java bytecode
+out/
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Generated output images (recreated automatically when you run Main)
+res/
+
+# Local submission archive produced by Submit.java
+QOI_submission.zip
